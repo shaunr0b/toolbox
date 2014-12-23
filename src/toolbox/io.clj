@@ -1,4 +1,4 @@
-(ns toolbox.io
+(ns skyscraper.utils.io
   (:require [clojure.pprint]))
 
 (defn pretty-spit [path data]

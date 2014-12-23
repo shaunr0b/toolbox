@@ -1,4 +1,4 @@
-(ns toolbox.file
+(ns skyscraper.utils.file
   (:require [clojure.java.io :as io]))
 
 (defn files-in-directory
